@@ -68,6 +68,19 @@
   margin-left:10px;
   margin-right:10px;
 }
+.div2Dept h2{
+  font-size: 22px;
+
+  font-family: 'open sans';
+  color:#b04400;
+  background:#F5F5F5;
+
+  line-height: 46px;
+  padding-left: 16px;
+  margin-top:15px;
+  margin-left:10px;
+  margin-right:10px;
+}
 .div21{
   float:left;
   width:780px;
